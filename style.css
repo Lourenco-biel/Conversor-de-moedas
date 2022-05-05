@@ -1,0 +1,127 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background: #E5E5E5;
+}
+
+.container {
+    background: #F4F4F4;
+    width: 375px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+header {
+    background-color: #1B83E2;
+    height: 66px;
+}
+
+h1 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 18px;
+    padding-top: 25px;
+    color: #F4F4F4;
+    text-align: center;
+}
+
+main {
+    padding: 24px;
+}
+
+label {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #777777;
+}
+
+select {
+    background: #FFFFFF;
+    border: 1px solid #BBBBBB;
+    box-sizing: border-box;
+    border-radius: 4px;
+    width: 100%;
+    height: 48px;
+    display: block;
+    cursor: pointer;
+    outline: none;
+    appearance: none;
+    padding: 16px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.15);
+    margin: 6px 0 24px 0;
+}
+
+input {
+    background: #FFFFFF;
+    border: 1px solid #BBBBBB;
+    box-sizing: border-box;
+    border-radius: 4px;
+    width: 100%;
+    height: 48px;
+    display: block;
+    outline: none;
+    padding: 16px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.15);
+    font-size: 17px;
+}
+
+button {
+    background: #1B83E2;
+    border-radius: 25px;
+    height: 48px;
+    width: 100%;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+    color: #F4F4F4;
+    border: none;
+    margin: 24px 0 36px 0;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 0.9;
+}
+
+button:active {
+    opacity: 0.8;
+}
+
+section {
+    border: 1px solid #1B83E2;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.currency-container {
+    text-align: center;
+    padding: 10px;
+}
+
+.currency-name {
+    color: #777777;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.currency-value {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #1B83E2;
+}
+
+.arrow-img{
+    margin: 15px auto;
+    display: block;
+}
