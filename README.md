@@ -1,29 +1,23 @@
 # Conversor-de-moedas
 
-<img src="./img/Page-print.JPG" alt="IMG-PAGE">
+<img src="./img//Conversor.gif" alt="IMG-Conversor">
 
 
-> Projeto em Andamento 👩‍🔧
+> Projeto finalizado 
 <br>
 
 ## 💻 Sobre o Projeto
 
-Este projeto trata-se de uma landing page sobre passeios com resposividade ! Espero que tenha curtido 😉
+Este projeto trata-se de um conversor de moedas ! Espero que tenha curtido 😉
 
 <br>
-
-## 🔧Ajustes e melhorias
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
-- [x] HTML
-- [x] CSS
-- [x] JavaScript
 
 ## 👨‍💻Link para acesso: 
 <a href="https://lourenco-biel.github.io/Conversor-de-moedas/">Aperte aqui ⬅ </a>
 
 ## ☕ tecnologias utilizadas
 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 
