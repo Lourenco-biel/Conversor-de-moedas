@@ -1,4 +1,4 @@
-# Conversor-de-moedas
+# Conversor de moedas
 
 <img src="./img//Conversor.gif" alt="IMG-Conversor">
 
