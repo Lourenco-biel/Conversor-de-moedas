@@ -10,12 +10,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 100%;
 }
 
 .container {
     background: #F4F4F4;
     width: 375px;
+    height: ;
 }
 
 header {
